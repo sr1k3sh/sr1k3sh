@@ -18,10 +18,11 @@
 <br>
 
 - A passionate Self-taught Front-end developer
+- Based on Ureshino, Japan.
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://rikeshshrestha.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently working as a Front-end developer in D8s. inc (ureshino,japan)
 
 <br><br>
 
