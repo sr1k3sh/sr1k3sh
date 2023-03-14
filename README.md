@@ -17,12 +17,15 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Self-taught developer with a passion for learning new technologies and programming concepts.
 - Based on Ureshino, Japan.
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://rikeshshrestha.netlify.app/)
 - I’m currently working as a Front-end developer in D8s. inc (ureshino,japan)
+- Enjoys exploring new places, particularly by going on mountain bike rides.
+- Excited to apply technical skills to create engaging and innovative user experiences for websites and web applications.
+- Skilled in creating visually appealing and intuitive user interfaces.
+- Passionate about staying up-to-date with the latest front-end development trends and technologies.
+- Comfortable with debugging and troubleshooting code.
+- Personal website [link](https://rikeshshrestha.netlify.app/)
 
 <br><br>
 
