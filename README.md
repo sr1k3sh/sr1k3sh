@@ -25,7 +25,7 @@
 - Skilled in creating visually appealing and intuitive user interfaces.
 - Passionate about staying up-to-date with the latest front-end development trends and technologies.
 - Comfortable with debugging and troubleshooting code.
-- Personal website [link](https://rikeshshrestha.netlify.app/)
+- Personal website [link](https://rikeshshrestha.com/)
 
 <br><br>
 
