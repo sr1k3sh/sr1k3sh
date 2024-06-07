@@ -21,7 +21,7 @@
 - 🔥 Passionate about staying up-to-date with the latest front-end development trends and technologies.
 - 🐞 Comfortable with debugging and troubleshooting code.
 - 🌐 Personal website: [rikesh.codes](https://rikesh.codes/)
-- my product: [safepass.rikesh.codes](htpps://safepass.rikesh.codes)
+- my product: [safepass.rikesh.codes](https://safepass.rikesh.codes/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
