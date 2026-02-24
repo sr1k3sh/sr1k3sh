@@ -1,14 +1,13 @@
 # Hi, I'm Rikesh Shrestha 👋
 
-Front-end developer based in Ureshino, Japan. I love building clean web experiences and exploring the outdoors on my mountain bike.
+Software engineer based in Itabashi, Japan. I love building clean web experiences and exploring the outdoors on my mountain bike.
 
 ---
 
 ## About Me
 
-- 💼 Front-end Developer at D8s. inc (Ureshino, Japan)
+- 💼 Software Engineer at D8s. inc (Itabashi, Japan)
 - 🌐 Website: [rikesh.codes](https://rikesh.codes/)
-- 🛡️ Product: [safepass.rikesh.codes](https://safepass.rikesh.codes/)
 - 🚵 Mountain biking enthusiast
 
 ---
