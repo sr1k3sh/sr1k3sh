@@ -18,7 +18,7 @@ Software engineer based in Itabashi, Japan. I love building clean web experience
 
 **Languages:** JavaScript · TypeScript · Python
 
-**Front-End:** HTML5 · CSS3 · SASS · React · Next.js
+**Front-End:** SASS · React · Next.js · GraphQL
 
 **Tools:** Git · GitHub · VS Code · Linux
 
