@@ -16,15 +16,19 @@ Software engineer based in Itabashi, Japan. I love building clean web experience
 
 ## Skills
 
+**Front-End:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · SASS · GraphQL
+
+**Back-End:** Node.js · REST APIs
+
 **Languages:** JavaScript · TypeScript · Python
 
-**Front-End:** SASS · React · Next.js · GraphQL
+**Tools:** Git · GitHub · Vercel · Figma · Docker
 
-**Tools:** Git · GitHub · VS Code · Linux
+🌱 **Exploring:** tRPC · Node.js
 
 ---
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/rikesh-shrestha-62539b111/)
-- [sr1k3sh@gmail.com](mailto:sr1k3sh@gmail.com)
+- sr1k3sh@gmail.com
