@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sr1k3sh&color=blue&style=flat)
 
-Software engineer based in Itabashi, Japan. I love building clean web experiences and exploring the outdoors on my mountain bike.
+### A Software engineer who like mountains,
+based in Itabashi, Japan. I love building clean web experiences and exploring the outdoors on my mountain bike.
 
 ---
 
