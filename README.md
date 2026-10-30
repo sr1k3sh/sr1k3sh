@@ -20,11 +20,11 @@ based in Itabashi, Japan. I love building clean web experiences and exploring th
 
 **Front-End:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · SASS · GraphQL
 
-**Back-End:** Node.js · REST APIs
+**Back-End:** Node.js · REST APIs · NestJS
 
 **Languages:** JavaScript · TypeScript · Python
 
-**Tools:** Git · GitHub · Vercel · Figma · Docker
+**Tools:** Git · GitHub · Xcode · Android Studio · Vercel · Figma · Docker
 
 🌱 **Exploring:** tRPC · Node.js
 
