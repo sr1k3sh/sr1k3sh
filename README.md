@@ -16,6 +16,7 @@ based in Itabashi, Japan. I love building clean web experiences and exploring th
 ---
 
 ## Skills
+**Mobile:** React Native / CLI / Expo 
 
 **Front-End:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · SASS · GraphQL
 
