@@ -36,6 +36,14 @@ based in Itabashi, Japan. I love building clean web experiences and exploring th
   <img src="https://streak-stats.demolab.com?user=sr1k3sh&background=ffffff&border=003893&stroke=003893&ring=DC143C&fire=DC143C&currStreakNum=DC143C&currStreakLabel=DC143C&sideNums=003893&sideLabels=003893&dates=003893&border_radius=10" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sr1k3sh/sr1k3sh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sr1k3sh/sr1k3sh/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sr1k3sh/sr1k3sh/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## Contact
