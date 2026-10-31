@@ -30,6 +30,14 @@ based in Itabashi, Japan. I love building clean web experiences and exploring th
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sr1k3sh&background=ffffff&border=003893&stroke=003893&ring=DC143C&fire=DC143C&currStreakNum=DC143C&currStreakLabel=DC143C&sideNums=003893&sideLabels=003893&dates=003893&border_radius=10" alt="GitHub streak" />
+</p>
+
+---
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/rikesh-shrestha-62539b111/)
