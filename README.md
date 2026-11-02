@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sr1k3sh&color=blue&style=flat)
 
-### A Software engineer who like mountains,
+### A software engineer who likes mountains,
 based in Itabashi, Japan. I love building clean web experiences and exploring the outdoors on my mountain bike.
 
 ---
@@ -12,6 +12,21 @@ based in Itabashi, Japan. I love building clean web experiences and exploring th
 - 💼 Software Engineer at D8s. inc (Itabashi, Japan)
 - 🌐 Website: [rikesh.codes](https://rikesh.codes/)
 - 🚵 Mountain biking enthusiast
+
+---
+
+## Open Source
+
+Recent contributions:
+
+- **[LanternOps/breeze](https://github.com/LanternOps/breeze)** (RMM platform, TypeScript)
+  - [#10738](https://github.com/LanternOps/breeze/pull/10738) Fixed a flaky OAuth integration test by binding the test server to an OS-assigned port ✅ merged
+  - [#10737](https://github.com/LanternOps/breeze/pull/10737) Corrected the developer quickstart's services list ✅ merged
+  - [#10877](https://github.com/LanternOps/breeze/pull/10877) Re-evaluate warranty-status dynamic groups when a warranty sync changes the status 🔄 in review
+- **[socialincome-san/public](https://github.com/socialincome-san/public)** (Social Income, Next.js)
+  - [#3331](https://github.com/socialincome-san/public/pull/3331) Country flags in the impact-measurement stats 🔄 in review
+- **[lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)** (Japanese learning app)
+  - [#33348](https://github.com/lingdojo/kana-dojo/pull/33348), [#33349](https://github.com/lingdojo/kana-dojo/pull/33349) Japan fact and grammar content ✅ merged
 
 ---
 
